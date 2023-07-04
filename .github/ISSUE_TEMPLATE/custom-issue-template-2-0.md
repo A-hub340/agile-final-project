@@ -3,6 +3,6 @@
 **So that** [why they need it]
 
 ### Acceptance Criteria
-- [ ] Acceptance criterion 1
-- [ ] Acceptance criterion 2
-- [ ] Acceptance criterion 3
+- [ ] Acceptance Criterion 1
+- [ ] Acceptance Criterion 2
+- [ ] Acceptance Criterion 3
